@@ -1,0 +1,23 @@
+
+.inline{
+    display:inline-block;
+    margin-right:5px;
+}
+
+#sort {
+    background-color: steelblue;
+  }
+
+#group-by{
+    margin:15px;
+    width: 400px;
+}
+
+
+h1,p,label{
+    margin:15px;
+}
+
+h1{
+    color: blue;
+}
